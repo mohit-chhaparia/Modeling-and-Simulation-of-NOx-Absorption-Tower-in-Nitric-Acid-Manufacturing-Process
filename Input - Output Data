@@ -1,0 +1,59 @@
+## Input - Output Data:
+Enter the absorption column total pressure (in atm) = 14
+Enter the temperature inside the absorption column (in K) = 350
+Enter the number of kmoles of nitrogen monoxide in the inlet gas stream = 34
+Enter the number of kmoles of nitrogen dioxide in the inlet gas stream = 47.04
+Enter the number of kmoles of dinitrogen trioxide in the inlet gas stream = 0
+Enter the number of kmoles of dinitrogen tetroxide in the inlet gas stream = 183.1
+Enter the number of kmoles of nitrogen gas in the inlet gas stream = 100.2
+Enter the number of kmoles of oxygen gas in the inlet gas stream = 89.25
+Enter the number of kmoles of inert gases in the inlet gas stream (excluding nitrogen gas) = 10.8
+Eneter the number of kmoles of nitrous acid gas in the inlet gas stream = 0
+Enter the number of kmoles of nitric acid gas in the inlet gas stream = 0
+Enter the number of kmoles of H2O vapor in the inlet gas stream = 20.67
+Tray - 1
+Component                            Inlet stream                                                                 Outlet stream
+                Number of moles      Mole fraction       Partial pressure                      Number of moles    Mole fraction    Partial pressure
+    NO             34.00000000         0.07009442          0.98132190                            20.30486728         0.05138774        0.71942830
+    NO2            47.04000000        0.09697769          1.35768771                            52.35459413        0.13249946        1.85499250
+    N2O3           0.00000000         0.00000000          0.00000000                            7.45207385         0.01885977        0.26403683
+    N2O4           183.10000000        0.37747907          5.28470705                            113.37803130        0.28693811        4.01713357
+    N2             100.20000000      0.20657238          2.89201336                            100.20000000      0.25358704        3.55021850
+    O2             89.25000000        0.18399786          2.57596998                            72.70318505        0.18399786        2.57596998
+    H2O            20.67000000         0.04261328          0.59658599                            14.28812949         0.03616052        0.50624732
+    HNO2           0.00000000         0.00000000          0.00000000                            1.67400972         0.00423660        0.05931238
+    HNO3           0.00000000         0.00000000          0.00000000                            1.97571916         0.00500017        0.07000234
+    INERTS         10.80000000        0.02226529          0.31171401                            10.80000000        0.02733273        0.38265828
+Weight fraction of HNO3 in the inlet liquid stream of tray 1 =   0.465529
+Weight fraction of HNO2 in the inlet liquid stream of tray 1 =  -0.083981
+Weight fraction of H2O in the inlet liquid stream of tray 1 =   0.541974
+Liquid mass flow rate (inlet) for tray 1 (in g/s) = 21230.714858
+Liquid mass flow rate (Outlet) for tray 1 (in g/s) = 26062.700000
+Gas molar flow rate (inlet) for tray 1 (in mol/s) = 485.060000
+Gas molar flow rate (outlet) for tray 1 (in mol/s) = 395.130610
+Total heat evolved (in KJ/(Kmol).(K)) on tray 1 = 26901.424337
+Temperature of the gas stream (in K) before reaching the cooling coil after tray 1 = 429.534389
+
+
+Tray - 50
+Component                            Inlet stream                                                                 Outlet stream
+                Number of moles      Mole fraction       Partial pressure                      Number of moles    Mole fraction    Partial pressure
+    NO             10.56467919        0.03713823          0.51993524                            10.51187519        0.03707547        0.51905653
+    NO2            44.83939248        0.15762483          2.20674759                            43.98604367        0.15513912        2.17194771
+    N2O3           5.32767033         0.01872847          0.26219855                            5.29130093         0.01866246        0.26127444
+    N2O4           57.40193018        0.20178617          2.82500640                            57.39138074        0.20241985        2.83387792
+    N2             100.20000000       0.35223510          4.93129135                            100.20000000       0.35340619        4.94768664
+    O2             55.06177611        0.19355978          2.70983693                            54.87931628        0.19355978        2.70983693
+    H2O            0.27364933         0.00096197          0.01346751                            -0.17576970        -0.00061994       -0.00867918
+    HNO2           0.00000000         0.00000000          0.00000000                            0.25535395         0.00090064        0.01260890
+    HNO3           0.00000000         0.00000000          0.00000000                            0.38694293         0.00136475        0.01910651
+    INERTS         10.80000000        0.03796546          0.53151643                            10.80000000        0.03809169        0.53328359
+Weight fraction of HNO3 in the inlet liquid stream of tray 50 =   0.239580
+Weight fraction of HNO2 in the inlet liquid stream of tray 50 =  0.236489
+Weight fraction of H2O in the inlet liquid stream of tray 50 =   0.816240
+Liquid mass flow rate (inlet) for tray 50 (in g/s) = 12596.056776
+Liquid mass flow rate (Outlet) for tray 50 (in g/s) = 12637.935475
+Gas molar flow rate (inlet) for tray 50 (in mol/s) = 284.469098
+Gas molar flow rate (outlet) for tray 50 (in mol/s) = 283.526444
+Total heat evolved (in KJ/(Kmol).(K)) on tray 50 = -1091.541009
+Temperature of the gas stream (in K) before reaching the cooling coil after tray 50 = 349.113694
